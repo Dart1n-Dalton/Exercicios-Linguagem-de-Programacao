@@ -16,7 +16,7 @@ Durante a disciplina, foram trabalhados os seguintes tópicos fundamentais da pr
 
 ## Estrutura das Listas
 Cada pasta corresponde a uma lista de exercícios com seus respectivos códigos e enunciados, os enunciados estão presentes nos arquivos Pdf armazenados 
-dento da pasta "Pdf" em cada pasta correspondente a uma lista.
+dentro da pasta "Pdf" em cada pasta correspondente a determinada lista.
 
 ## Como Executar
 1. Certifique-se de ter o Java 17.0.12 instalado.  
