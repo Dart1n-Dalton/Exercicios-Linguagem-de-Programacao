@@ -1,6 +1,6 @@
 # Listas de Exercícios — Disciplina: Linguagem de Programação
 
-Este repositório contém as listas de exercícios desenvolvidas durante a disciplina Linguagem de Programação, ministrada pelo professor Cristóvão Cunha.  
+Este repositório contém as listas de exercícios desenvolvidas durante a disciplina Linguagem de Programação, no segundo semestre do ano de 2024, ministrada pelo professor Cristóvão Cunha.  
 Os enunciados das listas (em formato PDF) foram disponibilizados e utilizados com consentimento do professor.
 
 ## Conteúdos Aprendidos
